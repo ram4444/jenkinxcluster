@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "dionyx.xyz"
+    domain: dionyx.xyz
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
